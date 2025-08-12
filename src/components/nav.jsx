@@ -98,7 +98,7 @@ function Nav() {
                     setMenuToggled(false);
                   }}
                 >
-                  Home
+                  <a href="#header"> Home</a>
                 </li>
                 <li
                   className="hover:text-indigo-600 cursor-pointer"
@@ -107,7 +107,7 @@ function Nav() {
                     setMenuToggled(false);
                   }}
                 >
-                  About
+                  <a href="#about"> About</a>
                 </li>
                 <li
                   className="hover:text-indigo-600 cursor-pointer"
@@ -116,7 +116,7 @@ function Nav() {
                     setMenuToggled(false);
                   }}
                 >
-                  Projects
+                  <a href="#projects"> Projects</a>
                 </li>
                 <li
                   className="hover:text-indigo-600 cursor-pointer"
@@ -125,7 +125,7 @@ function Nav() {
                     setMenuToggled(false);
                   }}
                 >
-                  Services
+                  <a href="#services"> Services</a>
                 </li>
               </ul>
             </div>
