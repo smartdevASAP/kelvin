@@ -4,7 +4,7 @@ import linkedin from "./linkedin.png";
 import moon from "./moon.png";
 import moon1 from "./moon(1).png";
 import menu from "./menu.png";
-import group from "./group.svg";
+import group from "./Group.svg";
 import firebase from "./firebase.png";
 import git from "./git.png";
 import gitHub from "./gitHub(3).png";
